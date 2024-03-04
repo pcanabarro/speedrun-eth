@@ -7,6 +7,6 @@ If you want help and understand more about Solidity i'd reccomend you this devel
 
 Let's web3 it!
 
-''' bash
+´´´ bash
 git clone https://github.com/pcanabarro/speedrun-eth
-'''
+´´´´
