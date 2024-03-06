@@ -10,3 +10,5 @@ Let's web3 it!
 ``` bash
 git clone https://github.com/pcanabarro/speedrun-eth
 ```
+
+### NOTES

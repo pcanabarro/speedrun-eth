@@ -1,0 +1,22 @@
+{
+  "name": "speedrun-eth",
+  "description": "Speedrun Ethereum - Development Training by pcanabarro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcanabarro/speedrun-eth.git"
+  },
+  "author": "pcanabarro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcanabarro/speedrun-eth/issues"
+  },
+  "homepage": "https://github.com/pcanabarro/speedrun-eth#readme"
+}
