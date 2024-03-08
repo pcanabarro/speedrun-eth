@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/pcanabarro/speedrun-eth/issues"
   },
-  "homepage": "https://github.com/pcanabarro/speedrun-eth#readme"
+  "homepage": "https://github.com/pcanabarro/speedrun-eth#readme",
+  "dependencies": {
+    "elliptic": "^6.5.5"
+  }
 }
